@@ -1,0 +1,38 @@
+{
+  "name": "zetta-lumi-aqara-driver",
+  "description": "Zetta driver for Xiaomi Smart Home (Lumi Aqara) devices",
+  "version": "1.0.0",
+  "author": [
+    {
+      "name": "Marvin ROGER",
+      "email": "bonjourmarvin@marvinroger.fr",
+      "web": "https://www.marvinroger.fr"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/marvinroger/zetta-lumi-aqara-driver/issues"
+  },
+  "dependencies": {
+    "color": "^1.0.3",
+    "lumi-aqara": "^1.0.0",
+    "zetta-device": "^0.20.0",
+    "zetta-scout": "^0.7.0"
+  },
+  "homepage": "https://github.com/marvinroger/zetta-lumi-aqara-driver",
+  "keywords": [
+    "aqara",
+    "gateway",
+    "home",
+    "iot",
+    "lumi",
+    "smart",
+    "xiaomi",
+    "zetta"
+  ],
+  "license": "GPL-3.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marvinroger/zetta-lumi-aqara-driver.git"
+  }
+}
